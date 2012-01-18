@@ -1,0 +1,21 @@
+This is a simple implementation of top down BTree(means that insertion and 
+deletion can be done in one pass).
+
+Please refers to:
+
+Introduction to Algorithms
+
+This is one of the greatest book I have read. 
+
+TODO:
+1. remove the debug code
+2. implement the deletion method.
+
+if you have any question, you can contact me via:
+
+time.clifford@gmail.com
+
+or 
+
+yichen.lyh@taobao.com
+
